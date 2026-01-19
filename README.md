@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey, I'm Tyler 👋
 
-<!--
-**Monear/Monear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I sit at the intersection of technical and human — comfortable explaining mesh networking to a first-timer and running live events for 3,000 people.
 
-Here are some ideas to get you started:
+**What I'm about:**
+- 🏠 Running a multi-site homelab (Tailscale, Proxmox, Infrasturcture as Code)
+- 🎙️ Former radio producer (200K+ listeners) and cruise ship events coordinator
+- 🌏 Teaching technical topics to 2,000+ international professionals
+- 🔧 Building tools to surface community sentiment at scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently exploring:** Community management, developer relations, and how to make technical products feel human.
+
+📍 Canada | Open to remote + travel
